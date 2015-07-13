@@ -1,7 +1,7 @@
 <properties
    pageTitle="Azure Data Catalog common scenarios"
    description="Review common scenarios in Azure Data Catalog: Registering, enriching, exploring, understanding, and consuming data sources, and removing data source metadata."
-   services="cloud-services"
+   services="data-catalog"
    documentationCenter=""
    authors="dvana"
    manager="mblythe"
